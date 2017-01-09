@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tedneward.example.TestPerson" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-01-09T11:13:25" hostname="Vickys-MBP-2.wavecable.com" time="0.082">
+  <properties/>
+  <testcase name="exerciseTheBasics" classname="com.tedneward.example.TestPerson" time="0.035"/>
+  <testcase name="setAgeToBeNegative" classname="com.tedneward.example.TestPerson" time="0.012"/>
+  <testcase name="setNameToNull" classname="com.tedneward.example.TestPerson" time="0.001"/>
+  <testcase name="viewReadabletoString" classname="com.tedneward.example.TestPerson" time="0.008"/>
+  <testcase name="exercisePesonEquals" classname="com.tedneward.example.TestPerson" time="0.002"/>
+  <testcase name="useAgeComparator" classname="com.tedneward.example.TestPerson" time="0.009"/>
+  <testcase name="useNaturalComparison" classname="com.tedneward.example.TestPerson" time="0.001"/>
+  <testcase name="catchPropertyChange" classname="com.tedneward.example.TestPerson" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
